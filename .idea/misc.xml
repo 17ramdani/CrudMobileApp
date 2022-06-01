@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/drawable/rounded_corner.xml" value="0.132" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/drawable/rounded_hijau.xml" value="0.132" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/drawable/rounded_hitam.xml" value="0.132" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/drawable/rounded_oren.xml" value="0.132" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/drawable/rounded_putih.xml" value="0.132" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/font/almendra_bold.xml" value="0.2358974358974359" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/font/amarante.xml" value="0.2358974358974359" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/font/langar.xml" value="0.2358974358974359" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/layout/activity_buat_biodata.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/layout/activity_lihat_biodata.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CrudMobileApp/app/src/main/res/layout/activity_update_biodata.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

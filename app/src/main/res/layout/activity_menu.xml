@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hijau"
+    tools:context=".Activity_menu">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="30dp"
+        android:text="Menu Pendaftaran"
+        android:fontFamily="@font/almendra_bold"
+        android:textColor="@color/putih"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        app:srcCompat="@drawable/edu1" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_oren"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:textStyle="bold"
+        android:textColor="@color/putih"
+        android:fontFamily="@font/amarante"
+        android:onClick="lihat"
+        android:text="List Data" />
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/rounded_oren"
+        android:textStyle="bold"
+        android:fontFamily="@font/amarante"
+        android:textColor="@color/putih"
+        android:layout_marginTop="20dp"
+        android:onClick="add"
+        android:text="Add Data" />
+
+
+</LinearLayout>
